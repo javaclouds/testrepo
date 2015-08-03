@@ -1,0 +1,21 @@
+Extract DevKit to path C:\Ruby193\DevKit
+cd C:\Ruby192\DevKit
+ruby dk.rb init
+ruby dk.rb review
+ruby dk.rb install
+
+
+c:\Ruby193\bin>gem install rails
+
+
+rails new library
+
+bundle install
+bundle  show [gemname]
+
+
+before adding new model 
+add gem 'mysql2' in Gemfile
+
+
+
